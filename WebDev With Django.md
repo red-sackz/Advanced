@@ -1,5 +1,7 @@
 #Web Development With Django
 
+https://github.com/rmotr-curriculum/wdd-class
+
 https://github.com/red-sackz/wdd-w1-twitter-timeline
 
 https://github.com/red-sackz/wdd-w1-simple-twitter-clone
