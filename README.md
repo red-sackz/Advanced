@@ -1,2 +1,1 @@
-# Organized
-Everything Organized
+# Everything Organized
