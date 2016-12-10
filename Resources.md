@@ -11,3 +11,9 @@ https://github.com/red-sackz/guide-programming-fundamentals-in-python
 https://github.com/red-sackz/JavaScript-Lessons
 
 https://github.com/red-sackz/launch-your-first-website
+
+https://github.com/red-sackz/Git-Reference
+
+https://github.com/red-sackz/web-development
+
+https://github.com/red-sackz/js-assessment
