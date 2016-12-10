@@ -1,5 +1,3 @@
 # Everything Organized
 
-https://github.com/red-sackz/Organize/blob/master/Advanced.md
-
-https://github.com/red-sackz/Organize/blob/master/WebDev%20With%20Django.md
+Curated List of Resources that I've forked or linked to.
