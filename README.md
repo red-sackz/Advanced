@@ -8,6 +8,8 @@ Curated List of Resources that I've forked or linked to.
 
 https://github.com/red-sackz/python-jumpstart-course-demos
 
+https://github.com/red-sackz/numpy_exercises
+
 https://github.com/red-sackz/cs-video-courses
 
 https://github.com/red-sackz/free-programming-books
