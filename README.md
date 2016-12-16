@@ -3,7 +3,8 @@
 Curated List of Resources that I've forked or linked to.
 
 
-#Things I haven't Organized into a folder or don't have folders for yet
+#Things I haven't Organized into a folder or don't have folders for yet... 
+##All of it is also located here: https://github.com/red-sackz/RESOURCES/blob/master/Resources.md
 
 https://github.com/red-sackz/python-jumpstart-course-demos
 
