@@ -17,3 +17,7 @@ https://github.com/red-sackz/Git-Reference
 https://github.com/red-sackz/web-development
 
 https://github.com/red-sackz/js-assessment
+
+https://github.com/red-sackz/python-jumpstart-course-demos
+
+https://github.com/red-sackz/numpy_exercises
