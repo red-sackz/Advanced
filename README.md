@@ -31,3 +31,5 @@ https://github.com/red-sackz/web-development
 https://github.com/red-sackz/js-assessment
 
 http://www.datavizcatalogue.com/?utm_campaign=Data
+
+https://github.com/red-sackz/2017Challenges
