@@ -27,3 +27,8 @@ https://github.com/red-sackz/js-assessment
 http://www.datavizcatalogue.com/?utm_campaign=Data
 
 https://github.com/red-sackz/2017Challenges
+
+
+## IT-Ebooks! A shitload of ebooks
+
+https://github.com/red-sackz/it-ebooks      (My Fork)
