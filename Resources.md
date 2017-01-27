@@ -1,8 +1,13 @@
 # Resources I haven't put into a subfolder or don't have a subfolder for cuz their the only one of it's kind.
 
+###Data Science Related.
+https://github.com/red-sackz/Geospatial_Data_with_Python
+
 https://github.com/red-sackz/PythonDataScienceHandbook
 
 https://github.com/red-sackz/numpy_exercises
+
+###Other
 
 https://github.com/red-sackz/python-jumpstart-course-demos
 
