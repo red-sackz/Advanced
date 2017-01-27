@@ -4,9 +4,14 @@ Curated List of Resources that I've forked or linked to.
 
 ##Things I haven't Organized into a folder or don't have folders for yet... 
 
+###Data Science Related.
+https://github.com/red-sackz/Geospatial_Data_with_Python
+
 https://github.com/red-sackz/PythonDataScienceHandbook
 
 https://github.com/red-sackz/numpy_exercises
+
+###Other
 
 https://github.com/red-sackz/python-jumpstart-course-demos
 
