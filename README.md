@@ -2,15 +2,15 @@
 
 Curated List of Resources that I've forked or linked to.
 
-
 ##Things I haven't Organized into a folder or don't have folders for yet... 
-##All of it is also located here: https://github.com/red-sackz/RESOURCES/blob/master/Resources.md
+
+https://github.com/red-sackz/PythonDataScienceHandbook
+
+https://github.com/red-sackz/numpy_exercises
 
 https://github.com/red-sackz/python-jumpstart-course-demos
 
 https://github.com/red-sackz/awesome-functional-python
-
-https://github.com/red-sackz/numpy_exercises
 
 https://github.com/red-sackz/cs-video-courses
 
@@ -37,3 +37,5 @@ https://github.com/red-sackz/2017Challenges
 ## IT Ebooks! A shitload of ebooks!       (My Fork)
 
 https://github.com/red-sackz/it-ebooks
+
+##All of it is also located here: https://github.com/red-sackz/RESOURCES/blob/master/Resources.md
