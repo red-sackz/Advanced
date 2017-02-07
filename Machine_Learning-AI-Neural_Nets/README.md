@@ -13,3 +13,5 @@ http://kevinhughes.ca/blog/tensor-kart?utm_campaign=Data%2BElixir&utm_medium=ema
 https://github.com/red-sackz/CADL
 
 https://github.com/red-sackz/sciblog_support
+
+Teacher at Columbia. Very Smart Guy. https://github.com/amueller
