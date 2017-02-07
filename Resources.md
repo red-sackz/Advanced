@@ -9,6 +9,8 @@ https://github.com/red-sackz/numpy_exercises
 
 ###Other
 
+#### Repo of Lists of resources. Example: Machine Learning for Cyber Security, Penetration Testing, Malware Analysis, etc... ^^^^^^^^^^^ =========>>>>> https://github.com/red-sackz/wtsxDevs-list-of-_____-resources-OrganizedForks
+
 https://github.com/red-sackz/python-jumpstart-course-demos
 
 https://github.com/red-sackz/awesome-functional-python
