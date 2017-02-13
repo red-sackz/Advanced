@@ -15,6 +15,8 @@ https://github.com/red-sackz/python-jumpstart-course-demos
 
 https://github.com/red-sackz/awesome-functional-python
 
+https://github.com/red-sackz/awesome-sec-talks  <-- NICEEEEE
+
 https://github.com/red-sackz/cs-video-courses
 
 https://github.com/red-sackz/free-programming-books
